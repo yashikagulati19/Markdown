@@ -8,7 +8,7 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 
 
 # **ATT&CK**
--> [Get Started >>](https://attack.mitre.org/resources/getting-started/) <-      [Contribute >>](https://attack.mitre.org/resources/contribute/)      [Check out our Blog](https://medium.com/mitre-attack)<br><br>
+[Get Started >>](https://attack.mitre.org/resources/getting-started/)      [Contribute >>](https://attack.mitre.org/resources/contribute/)      [Check out our Blog](https://medium.com/mitre-attack)<br><br>
 
 ## **ATT&CK Matrix for Enterprise**
 
