@@ -12,6 +12,6 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 [Contribute](https://attack.mitre.org/resources/contribute/)
 [Check out our Blog](https://medium.com/mitre-attack)<br><br>
 
-## **ATT&CK Matrix for Enterprise**
+:---: ## **ATT&CK Matrix for Enterprise**
 
 |Initial Access|Execution|Persistence|Privelege Escalation|Defense Evasion|Credential Access|
