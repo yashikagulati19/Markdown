@@ -14,3 +14,5 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 
 |Initial Access|Execution|Persistence|Privelege Escalation|Defense Evasion|Credential Access|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|[Drive-by Compromise](https://attack.mitre.org/techniques/T1189/)|[Applescript](https://attack.mitre.org/techniques/T1155/)|[.bash_profile and .bashrc](https://attack.mitre.org/techniques/T1156/)|[Access Token Manipulation](https://attack.mitre.org/techniques/T1134/)|[Access Token Manipulation](https://attack.mitre.org/techniques/T1134/)|[Account Manipulation](https://attack.mitre.org/techniques/T1098/)
+|[Exploit Public-Facing Application](https://attack.mitre.org/techniques/T1190/)|[CMSTP](https://attack.mitre.org/techniques/T1191/)|[Accessibility Features](https://attack.mitre.org/techniques/T1015/)|[Accessibility Features](https://attack.mitre.org/techniques/T1015/)|[Binary Padding](https://attack.mitre.org/techniques/T1009/)|[Bash History](https://attack.mitre.org/techniques/T1139/)|
