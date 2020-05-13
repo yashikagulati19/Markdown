@@ -7,11 +7,10 @@ MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and 
 With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems for a safer world — by bringing communities together to develop more effective cybersecurity. ATT&CK is open and available to any person or organization for use at no charge.   return
 
 
-# **ATT&CK** 
-[Get Started >>](https://attack.mitre.org/resources/getting-started/) 
-[Contribute](https://attack.mitre.org/resources/contribute/)
-[Check out our Blog](https://medium.com/mitre-attack)<br><br>
+# **ATT&CK**
+[Get Started >>](https://attack.mitre.org/resources/getting-started/)      [Contribute >>](https://attack.mitre.org/resources/contribute/)      [Check out our Blog](https://medium.com/mitre-attack)<br><br>
 
 ## **ATT&CK Matrix for Enterprise**
 
 |Initial Access|Execution|Persistence|Privelege Escalation|Defense Evasion|Credential Access|
+|:---:|:---:|:---:|:---:|:---:|:---:|
